@@ -1,0 +1,559 @@
+[04-Jul-2025 18:25:30 UTC] PHP Warning:  Undefined variable $block_editor_context in /home2/msmwhamy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-onboarding/includes/WP_Admin.php on line 292
+[07-Jul-2025 20:47:31 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[07-Jul-2025 20:47:31 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[07-Jul-2025 20:47:32 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[07-Jul-2025 20:47:32 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[07-Jul-2025 20:55:54 UTC] PHP Warning:  Undefined property: stdClass::$browse in /home2/msmwhamy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-marketplace/includes/Themes.php on line 169
+[07-Jul-2025 20:55:54 UTC] PHP Warning:  Undefined property: stdClass::$browse in /home2/msmwhamy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-marketplace/includes/Themes.php on line 198
+[07-Jul-2025 20:55:55 UTC] PHP Warning:  Undefined property: stdClass::$browse in /home2/msmwhamy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-marketplace/includes/Themes.php on line 169
+[07-Jul-2025 20:55:55 UTC] PHP Warning:  Undefined property: stdClass::$browse in /home2/msmwhamy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-marketplace/includes/Themes.php on line 198
+[07-Jul-2025 20:56:09 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[07-Jul-2025 20:56:09 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[07-Jul-2025 20:56:09 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[07-Jul-2025 20:56:09 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[08-Jul-2025 12:47:51 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[08-Jul-2025 12:47:51 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[08-Jul-2025 12:47:51 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[08-Jul-2025 12:47:51 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[08-Jul-2025 13:14:59 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[08-Jul-2025 13:14:59 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[08-Jul-2025 13:15:00 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[08-Jul-2025 13:15:00 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[08-Jul-2025 13:15:07 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[08-Jul-2025 13:15:07 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[08-Jul-2025 13:15:08 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[08-Jul-2025 13:15:08 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[08-Jul-2025 13:19:32 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[08-Jul-2025 13:19:32 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[09-Jul-2025 16:18:47 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[09-Jul-2025 16:18:47 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[09-Jul-2025 16:18:47 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[09-Jul-2025 16:18:47 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[09-Jul-2025 16:36:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update_meta() on null in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php:286
+Stack trace:
+#0 /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php(167): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions(33, Array)
+#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#4 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#5 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /home2/msmwhamy/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_element...')
+#7 {main}
+  thrown in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 286
+[09-Jul-2025 20:37:59 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/modules/history/revisions-manager.php on line 363
+[09-Jul-2025 20:41:56 UTC] PHP Warning:  Attempt to read property "taxonomy" on null in /home2/msmwhamy/public_html/wp-content/plugins/google-analytics-for-wordpress/includes/helpers.php on line 1482
+[09-Jul-2025 20:41:56 UTC] PHP Warning:  Attempt to read property "labels" on false in /home2/msmwhamy/public_html/wp-content/plugins/google-analytics-for-wordpress/includes/helpers.php on line 1484
+[09-Jul-2025 20:41:56 UTC] PHP Warning:  Attempt to read property "singular_name" on null in /home2/msmwhamy/public_html/wp-content/plugins/google-analytics-for-wordpress/includes/helpers.php on line 1484
+[09-Jul-2025 20:42:56 UTC] PHP Warning:  Attempt to read property "taxonomy" on null in /home2/msmwhamy/public_html/wp-content/plugins/google-analytics-for-wordpress/includes/helpers.php on line 1482
+[09-Jul-2025 20:42:56 UTC] PHP Warning:  Attempt to read property "labels" on false in /home2/msmwhamy/public_html/wp-content/plugins/google-analytics-for-wordpress/includes/helpers.php on line 1484
+[09-Jul-2025 20:42:56 UTC] PHP Warning:  Attempt to read property "singular_name" on null in /home2/msmwhamy/public_html/wp-content/plugins/google-analytics-for-wordpress/includes/helpers.php on line 1484
+[09-Jul-2025 20:50:01 UTC] PHP Warning:  Attempt to read property "title" on null in /home2/msmwhamy/public_html/wp-includes/class-wp-customize-widgets.php on line 926
+[09-Jul-2025 20:53:51 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/modules/history/revisions-manager.php on line 363
+[09-Jul-2025 20:55:11 UTC] PHP Warning:  Attempt to read property "title" on null in /home2/msmwhamy/public_html/wp-includes/class-wp-customize-widgets.php on line 926
+[09-Jul-2025 20:55:28 UTC] PHP Warning:  Undefined property: stdClass::$browse in /home2/msmwhamy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-marketplace/includes/Themes.php on line 169
+[09-Jul-2025 20:55:29 UTC] PHP Warning:  Undefined property: stdClass::$browse in /home2/msmwhamy/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-marketplace/includes/Themes.php on line 198
+[10-Jul-2025 12:14:11 UTC] PHP Warning:  Attempt to read property "taxonomy" on null in /home2/msmwhamy/public_html/wp-content/plugins/google-analytics-for-wordpress/includes/helpers.php on line 1482
+[10-Jul-2025 12:14:11 UTC] PHP Warning:  Attempt to read property "labels" on false in /home2/msmwhamy/public_html/wp-content/plugins/google-analytics-for-wordpress/includes/helpers.php on line 1484
+[10-Jul-2025 12:14:11 UTC] PHP Warning:  Attempt to read property "singular_name" on null in /home2/msmwhamy/public_html/wp-content/plugins/google-analytics-for-wordpress/includes/helpers.php on line 1484
+[10-Jul-2025 12:15:49 UTC] PHP Warning:  Attempt to read property "taxonomy" on null in /home2/msmwhamy/public_html/wp-content/plugins/google-analytics-for-wordpress/includes/helpers.php on line 1482
+[10-Jul-2025 12:15:49 UTC] PHP Warning:  Attempt to read property "labels" on false in /home2/msmwhamy/public_html/wp-content/plugins/google-analytics-for-wordpress/includes/helpers.php on line 1484
+[10-Jul-2025 12:15:49 UTC] PHP Warning:  Attempt to read property "singular_name" on null in /home2/msmwhamy/public_html/wp-content/plugins/google-analytics-for-wordpress/includes/helpers.php on line 1484
+[10-Jul-2025 13:40:29 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[10-Jul-2025 13:40:29 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[10-Jul-2025 13:41:38 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Core\Components\Migrations->run_migration(): The migration `fix_mime_type` successfully executed.
+[10-Jul-2025 14:16:13 UTC] PHP Warning:  Attempt to read property "title" on null in /home2/msmwhamy/public_html/wp-includes/class-wp-customize-widgets.php on line 926
+[10-Jul-2025 14:27:49 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/modules/history/revisions-manager.php on line 363
+[11-Jul-2025 18:21:56 UTC] PHP Warning:  Attempt to read property "taxonomy" on null in /home2/msmwhamy/public_html/wp-content/plugins/google-analytics-for-wordpress/includes/helpers.php on line 1482
+[11-Jul-2025 18:21:56 UTC] PHP Warning:  Attempt to read property "labels" on false in /home2/msmwhamy/public_html/wp-content/plugins/google-analytics-for-wordpress/includes/helpers.php on line 1484
+[11-Jul-2025 18:21:56 UTC] PHP Warning:  Attempt to read property "singular_name" on null in /home2/msmwhamy/public_html/wp-content/plugins/google-analytics-for-wordpress/includes/helpers.php on line 1484
+[15-Jul-2025 16:23:22 UTC] PHP Warning:  Attempt to read property "title" on null in /home2/msmwhamy/public_html/wp-includes/class-wp-customize-widgets.php on line 926
+[15-Jul-2025 16:23:46 UTC] PHP Warning:  Attempt to read property "title" on null in /home2/msmwhamy/public_html/wp-includes/class-wp-customize-widgets.php on line 926
+[16-Jul-2025 12:04:53 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[16-Jul-2025 20:49:43 UTC] PHP Warning:  Attempt to read property "title" on null in /home2/msmwhamy/public_html/wp-includes/class-wp-customize-widgets.php on line 926
+[17-Jul-2025 17:51:53 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[17-Jul-2025 18:15:22 UTC] PHP Warning:  Undefined array key "payload" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/modules/ai/module.php on line 617
+[17-Jul-2025 18:15:38 UTC] PHP Warning:  Array to string conversion in /home2/msmwhamy/public_html/wp-content/plugins/elementor/modules/ai/connect/ai.php on line 133
+[17-Jul-2025 18:42:44 UTC] PHP Warning:  Attempt to read property "title" on null in /home2/msmwhamy/public_html/wp-includes/class-wp-customize-widgets.php on line 926
+[17-Jul-2025 18:43:09 UTC] PHP Warning:  Attempt to read property "title" on null in /home2/msmwhamy/public_html/wp-includes/class-wp-customize-widgets.php on line 926
+[21-Jul-2025 12:17:38 UTC] PHP Warning:  Attempt to read property "title" on null in /home2/msmwhamy/public_html/wp-includes/class-wp-customize-widgets.php on line 926
+[21-Jul-2025 14:24:22 UTC] PHP Warning:  Trying to access array offset on false in /home2/msmwhamy/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[21-Jul-2025 14:24:22 UTC] PHP Warning:  Trying to access array offset on false in /home2/msmwhamy/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[21-Jul-2025 14:24:22 UTC] PHP Warning:  Trying to access array offset on false in /home2/msmwhamy/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[21-Jul-2025 14:24:22 UTC] PHP Warning:  Trying to access array offset on false in /home2/msmwhamy/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[21-Jul-2025 14:24:22 UTC] PHP Warning:  Trying to access array offset on false in /home2/msmwhamy/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[21-Jul-2025 14:24:22 UTC] PHP Warning:  Trying to access array offset on false in /home2/msmwhamy/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[21-Jul-2025 14:24:22 UTC] PHP Warning:  Trying to access array offset on false in /home2/msmwhamy/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[21-Jul-2025 14:24:22 UTC] PHP Warning:  Trying to access array offset on false in /home2/msmwhamy/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[21-Jul-2025 18:12:37 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[21-Jul-2025 18:12:37 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[21-Jul-2025 18:13:06 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[21-Jul-2025 18:13:06 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[21-Jul-2025 18:13:22 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[21-Jul-2025 18:13:22 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[21-Jul-2025 18:14:18 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[21-Jul-2025 18:14:18 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[21-Jul-2025 18:14:32 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[21-Jul-2025 18:14:32 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[21-Jul-2025 18:15:02 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[21-Jul-2025 18:15:02 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[21-Jul-2025 18:15:13 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[21-Jul-2025 18:15:13 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[21-Jul-2025 18:15:23 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[21-Jul-2025 18:15:23 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[21-Jul-2025 18:21:49 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[21-Jul-2025 18:21:49 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[21-Jul-2025 18:22:27 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[21-Jul-2025 18:22:27 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[21-Jul-2025 18:22:39 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[21-Jul-2025 18:22:39 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[21-Jul-2025 18:24:13 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[21-Jul-2025 18:24:13 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[21-Jul-2025 18:25:17 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[21-Jul-2025 18:25:17 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[21-Jul-2025 18:25:26 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[21-Jul-2025 18:25:26 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[21-Jul-2025 18:26:22 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[21-Jul-2025 18:26:22 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[21-Jul-2025 18:26:39 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[21-Jul-2025 18:26:39 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[21-Jul-2025 18:26:55 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[21-Jul-2025 18:26:55 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[21-Jul-2025 18:28:26 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[21-Jul-2025 18:28:26 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[21-Jul-2025 18:41:43 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[21-Jul-2025 18:41:43 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[21-Jul-2025 18:41:51 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[21-Jul-2025 18:41:51 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[21-Jul-2025 18:47:59 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[21-Jul-2025 18:47:59 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[21-Jul-2025 18:48:12 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[21-Jul-2025 18:48:12 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[21-Jul-2025 18:51:37 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[21-Jul-2025 18:51:37 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[21-Jul-2025 18:53:28 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[21-Jul-2025 18:53:28 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[25-Jul-2025 14:25:29 UTC] PHP Warning:  Attempt to read property "title" on null in /home2/msmwhamy/public_html/wp-includes/class-wp-customize-widgets.php on line 926
+[25-Jul-2025 14:43:14 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Jul-2025 15:50:15 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 167
+[25-Jul-2025 15:50:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update_meta() on false in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php:286
+Stack trace:
+#0 /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php(167): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions(NULL, Array)
+#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#4 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#5 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /home2/msmwhamy/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_element...')
+#7 {main}
+  thrown in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 286
+[25-Jul-2025 19:01:30 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[25-Jul-2025 19:01:30 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[25-Jul-2025 19:01:31 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[25-Jul-2025 19:01:31 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[25-Jul-2025 19:10:57 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 167
+[25-Jul-2025 19:10:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update_meta() on false in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php:286
+Stack trace:
+#0 /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php(167): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions(NULL, Array)
+#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#4 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#5 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /home2/msmwhamy/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_element...')
+#7 {main}
+  thrown in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 286
+[25-Jul-2025 20:16:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update_meta() on null in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php:286
+Stack trace:
+#0 /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php(167): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions(33, Array)
+#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#4 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#5 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /home2/msmwhamy/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_element...')
+#7 {main}
+  thrown in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 286
+[28-Jul-2025 17:41:13 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[28-Jul-2025 17:41:13 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[28-Jul-2025 17:41:13 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[28-Jul-2025 17:41:13 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[28-Jul-2025 18:16:16 UTC] PHP Warning:  Attempt to read property "title" on null in /home2/msmwhamy/public_html/wp-includes/class-wp-customize-widgets.php on line 926
+[28-Jul-2025 18:41:47 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[28-Jul-2025 18:41:47 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[28-Jul-2025 18:41:47 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[28-Jul-2025 18:41:47 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[28-Jul-2025 18:59:16 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[28-Jul-2025 19:04:48 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[28-Jul-2025 19:04:48 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[28-Jul-2025 19:04:48 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[28-Jul-2025 19:04:48 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[28-Jul-2025 19:06:13 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[28-Jul-2025 19:06:13 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[28-Jul-2025 19:06:13 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[28-Jul-2025 19:06:13 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[28-Jul-2025 19:06:13 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[28-Jul-2025 19:06:13 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[28-Jul-2025 19:06:13 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[28-Jul-2025 19:06:13 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[28-Jul-2025 19:06:20 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[28-Jul-2025 19:06:20 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[28-Jul-2025 19:06:20 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[28-Jul-2025 19:06:20 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[28-Jul-2025 19:08:20 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[28-Jul-2025 19:08:20 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[28-Jul-2025 19:08:21 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[28-Jul-2025 19:08:21 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[28-Jul-2025 19:08:47 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Includes\Settings\AdminMenuItems\Admin_Menu_Item" not found in /home2/msmwhamy/public_html/wp-content/plugins/elementor/includes/settings/settings.php:105
+Stack trace:
+#0 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): Elementor\Settings->Elementor\{closure}(Object(Elementor\Core\Admin\Menu\Admin_Menu_Manager))
+#1 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/admin/menu/admin-menu-manager.php(51): do_action('elementor/admin...', Object(Elementor\Core\Admin\Menu\Admin_Menu_Manager))
+#4 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/admin/menu/admin-menu-manager.php(42): Elementor\Core\Admin\Menu\Admin_Menu_Manager->register_wp_menus()
+#5 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Admin\Menu\Admin_Menu_Manager->Elementor\Core\Admin\Menu\{closure}('')
+#6 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#7 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home2/msmwhamy/public_html/wp-admin/includes/menu.php(161): do_action('admin_menu', '')
+#9 /home2/msmwhamy/public_html/wp-admin/menu.php(423): require_once('/home2/msmwhamy...')
+#10 /home2/msmwhamy/public_html/wp-admin/admin.php(159): require('/home2/msmwhamy...')
+#11 {main}
+  thrown in /home2/msmwhamy/public_html/wp-content/plugins/elementor/includes/settings/settings.php on line 105
+[28-Jul-2025 19:10:43 UTC] PHP Warning:  Attempt to read property "taxonomy" on null in /home2/msmwhamy/public_html/wp-content/plugins/google-analytics-for-wordpress/includes/helpers.php on line 1482
+[28-Jul-2025 19:10:43 UTC] PHP Warning:  Attempt to read property "labels" on false in /home2/msmwhamy/public_html/wp-content/plugins/google-analytics-for-wordpress/includes/helpers.php on line 1484
+[28-Jul-2025 19:10:43 UTC] PHP Warning:  Attempt to read property "singular_name" on null in /home2/msmwhamy/public_html/wp-content/plugins/google-analytics-for-wordpress/includes/helpers.php on line 1484
+[28-Jul-2025 19:28:20 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[28-Jul-2025 19:28:20 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[28-Jul-2025 19:28:20 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[28-Jul-2025 19:28:20 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[28-Jul-2025 19:34:02 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[28-Jul-2025 19:34:02 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[28-Jul-2025 19:34:02 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[28-Jul-2025 19:34:02 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[28-Jul-2025 19:35:21 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[28-Jul-2025 19:35:21 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[28-Jul-2025 19:35:21 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[28-Jul-2025 19:35:21 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[28-Jul-2025 19:59:45 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[28-Jul-2025 19:59:45 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[28-Jul-2025 19:59:46 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[28-Jul-2025 19:59:46 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[28-Jul-2025 19:59:51 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[28-Jul-2025 19:59:51 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[28-Jul-2025 19:59:51 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[28-Jul-2025 19:59:51 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[29-Jul-2025 19:01:03 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[29-Jul-2025 19:07:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[29-Jul-2025 19:09:34 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[29-Jul-2025 19:11:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[29-Jul-2025 20:27:24 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[29-Jul-2025 20:28:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[30-Jul-2025 19:25:37 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[01-Aug-2025 16:02:35 UTC] PHP Warning:  Attempt to read property "title" on null in /home2/msmwhamy/public_html/wp-includes/class-wp-customize-widgets.php on line 926
+[01-Aug-2025 17:42:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[04-Aug-2025 17:07:42 UTC] PHP Warning:  Attempt to read property "title" on null in /home2/msmwhamy/public_html/wp-includes/class-wp-customize-widgets.php on line 926
+[04-Aug-2025 19:00:34 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[04-Aug-2025 20:45:59 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[04-Aug-2025 20:45:59 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[04-Aug-2025 20:45:59 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[04-Aug-2025 20:45:59 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[05-Aug-2025 12:09:26 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[05-Aug-2025 12:23:32 UTC] PHP Warning:  Attempt to read property "taxonomy" on null in /home2/msmwhamy/public_html/wp-content/plugins/google-analytics-for-wordpress/includes/helpers.php on line 1482
+[05-Aug-2025 12:23:32 UTC] PHP Warning:  Attempt to read property "labels" on false in /home2/msmwhamy/public_html/wp-content/plugins/google-analytics-for-wordpress/includes/helpers.php on line 1484
+[05-Aug-2025 12:23:32 UTC] PHP Warning:  Attempt to read property "singular_name" on null in /home2/msmwhamy/public_html/wp-content/plugins/google-analytics-for-wordpress/includes/helpers.php on line 1484
+[05-Aug-2025 12:24:56 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[05-Aug-2025 12:31:17 UTC] PHP Warning:  Attempt to read property "title" on null in /home2/msmwhamy/public_html/wp-includes/class-wp-customize-widgets.php on line 926
+[05-Aug-2025 12:32:44 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[05-Aug-2025 15:35:55 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[05-Aug-2025 15:35:55 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[05-Aug-2025 17:43:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[05-Aug-2025 17:44:12 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[05-Aug-2025 17:44:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[05-Aug-2025 17:47:55 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[05-Aug-2025 17:47:55 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[05-Aug-2025 17:47:56 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[05-Aug-2025 17:47:56 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[06-Aug-2025 13:34:09 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[07-Aug-2025 20:40:13 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[07-Aug-2025 20:40:13 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[07-Aug-2025 20:40:13 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[07-Aug-2025 20:40:13 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[07-Aug-2025 20:40:37 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[07-Aug-2025 20:40:37 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[07-Aug-2025 20:40:37 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[07-Aug-2025 20:40:37 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[11-Aug-2025 14:30:44 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[11-Aug-2025 15:19:17 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[11-Aug-2025 15:20:18 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[12-Aug-2025 16:49:18 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[12-Aug-2025 16:49:18 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[12-Aug-2025 16:49:18 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[12-Aug-2025 16:49:18 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[12-Aug-2025 18:33:08 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[12-Aug-2025 18:54:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[13-Aug-2025 12:14:12 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[14-Aug-2025 14:32:44 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[14-Aug-2025 15:13:29 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[14-Aug-2025 18:54:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[15-Aug-2025 12:11:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[15-Aug-2025 19:28:45 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[15-Aug-2025 19:28:45 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[15-Aug-2025 19:29:12 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[15-Aug-2025 19:29:12 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[15-Aug-2025 19:29:41 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[15-Aug-2025 19:29:41 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[15-Aug-2025 19:29:47 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[15-Aug-2025 19:29:47 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[15-Aug-2025 19:30:02 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[15-Aug-2025 19:30:02 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[15-Aug-2025 19:30:27 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[15-Aug-2025 19:30:27 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[15-Aug-2025 19:30:57 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[15-Aug-2025 19:30:57 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[15-Aug-2025 19:31:09 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[15-Aug-2025 19:31:09 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[15-Aug-2025 19:31:15 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[15-Aug-2025 19:31:15 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[15-Aug-2025 19:32:43 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[15-Aug-2025 19:32:43 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[15-Aug-2025 19:32:51 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[15-Aug-2025 19:32:51 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[15-Aug-2025 19:33:28 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[15-Aug-2025 19:33:28 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[15-Aug-2025 19:33:36 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[15-Aug-2025 19:33:36 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[15-Aug-2025 19:33:40 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[15-Aug-2025 19:33:40 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[15-Aug-2025 19:33:46 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[15-Aug-2025 19:33:46 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[15-Aug-2025 19:35:36 UTC] PHP Warning:  Undefined array key "column" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[15-Aug-2025 19:35:36 UTC] PHP Warning:  Undefined array key "url" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[21-Aug-2025 17:26:03 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[21-Aug-2025 17:26:03 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[21-Aug-2025 17:26:03 UTC] PHP Warning:  Undefined array key "requires" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[21-Aug-2025 17:26:03 UTC] PHP Warning:  Undefined array key "new_version" in /home2/msmwhamy/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[21-Aug-2025 19:34:12 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[21-Aug-2025 19:36:38 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[22-Aug-2025 12:03:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Aug-2025 17:35:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Aug-2025 18:41:16 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Aug-2025 18:55:02 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[26-Aug-2025 12:26:39 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[26-Aug-2025 14:16:04 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[26-Aug-2025 14:16:43 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[26-Aug-2025 14:37:07 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[01-Sep-2025 19:00:07 UTC] PHP Warning:  Undefined array key "promotionWidgets" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php on line 165
+[01-Sep-2025 19:00:07 UTC] PHP Fatal error:  Uncaught TypeError: Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::ensure_numeric_keys(): Argument #1 ($array) must be of type array, null given, called in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php on line 165 and defined in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php:180
+Stack trace:
+#0 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php(165): Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::ensure_numeric_keys(NULL)
+#1 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/v2/editor-v2-loader.php(167): Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::get()
+#2 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/editor.php(355): Elementor\Core\Editor\Loader\V2\Editor_V2_Loader->enqueue_scripts()
+#3 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Editor\Editor->enqueue_scripts('')
+#4 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#5 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /home2/msmwhamy/public_html/wp-includes/script-loader.php(2299): do_action('wp_enqueue_scri...')
+#7 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): wp_enqueue_scripts('')
+#8 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#9 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#10 /home2/msmwhamy/public_html/wp-includes/general-template.php(3192): do_action('wp_head')
+#11 /home2/msmwhamy/public_html/wp-content/plugins/elementor/includes/editor-templates/editor-wrapper.php(31): wp_head()
+#12 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/v2/editor-v2-loader.php(217): include('/home2/msmwhamy...')
+#13 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/editor.php(160): Elementor\Core\Editor\Loader\V2\Editor_V2_Loader->print_root_template()
+#14 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Editor\Editor->init('')
+#15 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#16 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#17 /home2/msmwhamy/public_html/wp-admin/admin.php(420): do_action('admin_action_el...')
+#18 /home2/msmwhamy/public_html/wp-admin/post.php(12): require_once('/home2/msmwhamy...')
+#19 {main}
+  thrown in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php on line 180
+[01-Sep-2025 19:00:24 UTC] PHP Warning:  Undefined array key "promotionWidgets" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php on line 165
+[01-Sep-2025 19:00:24 UTC] PHP Fatal error:  Uncaught TypeError: Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::ensure_numeric_keys(): Argument #1 ($array) must be of type array, null given, called in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php on line 165 and defined in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php:180
+Stack trace:
+#0 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php(165): Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::ensure_numeric_keys(NULL)
+#1 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/v2/editor-v2-loader.php(167): Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::get()
+#2 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/editor.php(355): Elementor\Core\Editor\Loader\V2\Editor_V2_Loader->enqueue_scripts()
+#3 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Editor\Editor->enqueue_scripts('')
+#4 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#5 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /home2/msmwhamy/public_html/wp-includes/script-loader.php(2299): do_action('wp_enqueue_scri...')
+#7 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): wp_enqueue_scripts('')
+#8 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#9 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#10 /home2/msmwhamy/public_html/wp-includes/general-template.php(3192): do_action('wp_head')
+#11 /home2/msmwhamy/public_html/wp-content/plugins/elementor/includes/editor-templates/editor-wrapper.php(31): wp_head()
+#12 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/v2/editor-v2-loader.php(217): include('/home2/msmwhamy...')
+#13 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/editor.php(160): Elementor\Core\Editor\Loader\V2\Editor_V2_Loader->print_root_template()
+#14 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Editor\Editor->init('')
+#15 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#16 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#17 /home2/msmwhamy/public_html/wp-admin/admin.php(420): do_action('admin_action_el...')
+#18 /home2/msmwhamy/public_html/wp-admin/post.php(12): require_once('/home2/msmwhamy...')
+#19 {main}
+  thrown in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php on line 180
+[01-Sep-2025 19:00:39 UTC] PHP Warning:  Undefined array key "promotionWidgets" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php on line 165
+[01-Sep-2025 19:00:39 UTC] PHP Fatal error:  Uncaught TypeError: Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::ensure_numeric_keys(): Argument #1 ($array) must be of type array, null given, called in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php on line 165 and defined in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php:180
+Stack trace:
+#0 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php(165): Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::ensure_numeric_keys(NULL)
+#1 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/v2/editor-v2-loader.php(167): Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::get()
+#2 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/editor.php(355): Elementor\Core\Editor\Loader\V2\Editor_V2_Loader->enqueue_scripts()
+#3 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Editor\Editor->enqueue_scripts('')
+#4 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#5 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /home2/msmwhamy/public_html/wp-includes/script-loader.php(2299): do_action('wp_enqueue_scri...')
+#7 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): wp_enqueue_scripts('')
+#8 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#9 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#10 /home2/msmwhamy/public_html/wp-includes/general-template.php(3192): do_action('wp_head')
+#11 /home2/msmwhamy/public_html/wp-content/plugins/elementor/includes/editor-templates/editor-wrapper.php(31): wp_head()
+#12 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/v2/editor-v2-loader.php(217): include('/home2/msmwhamy...')
+#13 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/editor.php(160): Elementor\Core\Editor\Loader\V2\Editor_V2_Loader->print_root_template()
+#14 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Editor\Editor->init('')
+#15 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#16 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#17 /home2/msmwhamy/public_html/wp-admin/admin.php(420): do_action('admin_action_el...')
+#18 /home2/msmwhamy/public_html/wp-admin/post.php(12): require_once('/home2/msmwhamy...')
+#19 {main}
+  thrown in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php on line 180
+[01-Sep-2025 19:01:14 UTC] PHP Warning:  Undefined array key "promotionWidgets" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php on line 165
+[01-Sep-2025 19:01:14 UTC] PHP Fatal error:  Uncaught TypeError: Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::ensure_numeric_keys(): Argument #1 ($array) must be of type array, null given, called in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php on line 165 and defined in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php:180
+Stack trace:
+#0 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php(165): Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::ensure_numeric_keys(NULL)
+#1 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/v2/editor-v2-loader.php(167): Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::get()
+#2 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/editor.php(355): Elementor\Core\Editor\Loader\V2\Editor_V2_Loader->enqueue_scripts()
+#3 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Editor\Editor->enqueue_scripts('')
+#4 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#5 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /home2/msmwhamy/public_html/wp-includes/script-loader.php(2299): do_action('wp_enqueue_scri...')
+#7 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): wp_enqueue_scripts('')
+#8 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#9 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#10 /home2/msmwhamy/public_html/wp-includes/general-template.php(3192): do_action('wp_head')
+#11 /home2/msmwhamy/public_html/wp-content/plugins/elementor/includes/editor-templates/editor-wrapper.php(31): wp_head()
+#12 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/v2/editor-v2-loader.php(217): include('/home2/msmwhamy...')
+#13 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/editor.php(160): Elementor\Core\Editor\Loader\V2\Editor_V2_Loader->print_root_template()
+#14 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Editor\Editor->init('')
+#15 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#16 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#17 /home2/msmwhamy/public_html/wp-admin/admin.php(420): do_action('admin_action_el...')
+#18 /home2/msmwhamy/public_html/wp-admin/post.php(12): require_once('/home2/msmwhamy...')
+#19 {main}
+  thrown in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php on line 180
+[01-Sep-2025 19:05:17 UTC] PHP Warning:  Undefined array key "promotionWidgets" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php on line 165
+[01-Sep-2025 19:05:17 UTC] PHP Fatal error:  Uncaught TypeError: Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::ensure_numeric_keys(): Argument #1 ($array) must be of type array, null given, called in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php on line 165 and defined in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php:180
+Stack trace:
+#0 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php(165): Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::ensure_numeric_keys(NULL)
+#1 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/v2/editor-v2-loader.php(167): Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::get()
+#2 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/editor.php(355): Elementor\Core\Editor\Loader\V2\Editor_V2_Loader->enqueue_scripts()
+#3 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Editor\Editor->enqueue_scripts('')
+#4 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#5 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /home2/msmwhamy/public_html/wp-includes/script-loader.php(2299): do_action('wp_enqueue_scri...')
+#7 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): wp_enqueue_scripts('')
+#8 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#9 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#10 /home2/msmwhamy/public_html/wp-includes/general-template.php(3192): do_action('wp_head')
+#11 /home2/msmwhamy/public_html/wp-content/plugins/elementor/includes/editor-templates/editor-wrapper.php(31): wp_head()
+#12 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/v2/editor-v2-loader.php(217): include('/home2/msmwhamy...')
+#13 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/editor.php(160): Elementor\Core\Editor\Loader\V2\Editor_V2_Loader->print_root_template()
+#14 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Editor\Editor->init('')
+#15 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#16 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#17 /home2/msmwhamy/public_html/wp-admin/admin.php(420): do_action('admin_action_el...')
+#18 /home2/msmwhamy/public_html/wp-admin/post.php(12): require_once('/home2/msmwhamy...')
+#19 {main}
+  thrown in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php on line 180
+[01-Sep-2025 19:05:52 UTC] PHP Warning:  Undefined array key "promotionWidgets" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php on line 165
+[01-Sep-2025 19:05:52 UTC] PHP Fatal error:  Uncaught TypeError: Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::ensure_numeric_keys(): Argument #1 ($array) must be of type array, null given, called in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php on line 165 and defined in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php:180
+Stack trace:
+#0 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php(165): Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::ensure_numeric_keys(NULL)
+#1 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/v2/editor-v2-loader.php(167): Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::get()
+#2 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/editor.php(355): Elementor\Core\Editor\Loader\V2\Editor_V2_Loader->enqueue_scripts()
+#3 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Editor\Editor->enqueue_scripts('')
+#4 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#5 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /home2/msmwhamy/public_html/wp-includes/script-loader.php(2299): do_action('wp_enqueue_scri...')
+#7 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): wp_enqueue_scripts('')
+#8 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#9 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#10 /home2/msmwhamy/public_html/wp-includes/general-template.php(3192): do_action('wp_head')
+#11 /home2/msmwhamy/public_html/wp-content/plugins/elementor/includes/editor-templates/editor-wrapper.php(31): wp_head()
+#12 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/v2/editor-v2-loader.php(217): include('/home2/msmwhamy...')
+#13 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/editor.php(160): Elementor\Core\Editor\Loader\V2\Editor_V2_Loader->print_root_template()
+#14 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Editor\Editor->init('')
+#15 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#16 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#17 /home2/msmwhamy/public_html/wp-admin/admin.php(420): do_action('admin_action_el...')
+#18 /home2/msmwhamy/public_html/wp-admin/post.php(12): require_once('/home2/msmwhamy...')
+#19 {main}
+  thrown in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php on line 180
+[01-Sep-2025 19:07:58 UTC] PHP Warning:  Undefined array key "promotionWidgets" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php on line 165
+[01-Sep-2025 19:07:58 UTC] PHP Fatal error:  Uncaught TypeError: Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::ensure_numeric_keys(): Argument #1 ($array) must be of type array, null given, called in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php on line 165 and defined in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php:180
+Stack trace:
+#0 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php(165): Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::ensure_numeric_keys(NULL)
+#1 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/v2/editor-v2-loader.php(167): Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::get()
+#2 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/editor.php(355): Elementor\Core\Editor\Loader\V2\Editor_V2_Loader->enqueue_scripts()
+#3 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Editor\Editor->enqueue_scripts('')
+#4 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#5 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /home2/msmwhamy/public_html/wp-includes/script-loader.php(2299): do_action('wp_enqueue_scri...')
+#7 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): wp_enqueue_scripts('')
+#8 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#9 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#10 /home2/msmwhamy/public_html/wp-includes/general-template.php(3192): do_action('wp_head')
+#11 /home2/msmwhamy/public_html/wp-content/plugins/elementor/includes/editor-templates/editor-wrapper.php(31): wp_head()
+#12 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/v2/editor-v2-loader.php(217): include('/home2/msmwhamy...')
+#13 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/editor.php(160): Elementor\Core\Editor\Loader\V2\Editor_V2_Loader->print_root_template()
+#14 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Editor\Editor->init('')
+#15 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#16 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#17 /home2/msmwhamy/public_html/wp-admin/admin.php(420): do_action('admin_action_el...')
+#18 /home2/msmwhamy/public_html/wp-admin/post.php(12): require_once('/home2/msmwhamy...')
+#19 {main}
+  thrown in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php on line 180
+[01-Sep-2025 19:21:45 UTC] PHP Warning:  Undefined array key "promotionWidgets" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php on line 165
+[01-Sep-2025 19:21:45 UTC] PHP Fatal error:  Uncaught TypeError: Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::ensure_numeric_keys(): Argument #1 ($array) must be of type array, null given, called in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php on line 165 and defined in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php:180
+Stack trace:
+#0 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php(165): Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::ensure_numeric_keys(NULL)
+#1 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/v2/editor-v2-loader.php(167): Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::get()
+#2 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/editor.php(355): Elementor\Core\Editor\Loader\V2\Editor_V2_Loader->enqueue_scripts()
+#3 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Editor\Editor->enqueue_scripts('')
+#4 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#5 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /home2/msmwhamy/public_html/wp-includes/script-loader.php(2299): do_action('wp_enqueue_scri...')
+#7 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): wp_enqueue_scripts('')
+#8 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#9 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#10 /home2/msmwhamy/public_html/wp-includes/general-template.php(3192): do_action('wp_head')
+#11 /home2/msmwhamy/public_html/wp-content/plugins/elementor/includes/editor-templates/editor-wrapper.php(31): wp_head()
+#12 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/v2/editor-v2-loader.php(217): include('/home2/msmwhamy...')
+#13 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/editor.php(160): Elementor\Core\Editor\Loader\V2\Editor_V2_Loader->print_root_template()
+#14 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Editor\Editor->init('')
+#15 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#16 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#17 /home2/msmwhamy/public_html/wp-admin/admin.php(420): do_action('admin_action_el...')
+#18 /home2/msmwhamy/public_html/wp-admin/post.php(12): require_once('/home2/msmwhamy...')
+#19 {main}
+  thrown in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php on line 180
+[01-Sep-2025 19:21:50 UTC] PHP Warning:  Undefined array key "promotionWidgets" in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php on line 165
+[01-Sep-2025 19:21:50 UTC] PHP Fatal error:  Uncaught TypeError: Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::ensure_numeric_keys(): Argument #1 ($array) must be of type array, null given, called in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php on line 165 and defined in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php:180
+Stack trace:
+#0 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php(165): Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::ensure_numeric_keys(NULL)
+#1 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/v2/editor-v2-loader.php(167): Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::get()
+#2 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/editor.php(355): Elementor\Core\Editor\Loader\V2\Editor_V2_Loader->enqueue_scripts()
+#3 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Editor\Editor->enqueue_scripts('')
+#4 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#5 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /home2/msmwhamy/public_html/wp-includes/script-loader.php(2299): do_action('wp_enqueue_scri...')
+#7 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): wp_enqueue_scripts('')
+#8 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#9 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#10 /home2/msmwhamy/public_html/wp-includes/general-template.php(3192): do_action('wp_head')
+#11 /home2/msmwhamy/public_html/wp-content/plugins/elementor/includes/editor-templates/editor-wrapper.php(31): wp_head()
+#12 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/v2/editor-v2-loader.php(217): include('/home2/msmwhamy...')
+#13 /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/editor.php(160): Elementor\Core\Editor\Loader\V2\Editor_V2_Loader->print_root_template()
+#14 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Editor\Editor->init('')
+#15 /home2/msmwhamy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#16 /home2/msmwhamy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#17 /home2/msmwhamy/public_html/wp-admin/admin.php(420): do_action('admin_action_el...')
+#18 /home2/msmwhamy/public_html/wp-admin/post.php(12): require_once('/home2/msmwhamy...')
+#19 {main}
+  thrown in /home2/msmwhamy/public_html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php on line 180
